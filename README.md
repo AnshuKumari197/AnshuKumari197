@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm ANSHU 👋 ![EmojiEmojiHelloGIF](https://user-images.githubusercontent.com/84778340/173294256-f9c40938-2cdd-4ecc-b80f-f2d7f0e993ff.gif)
 
-<!--
-**AnshuKumari197/AnshuKumari197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... linkedin
+
+
+
+
+- 🎓 A third year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
+<!-- - 🔭 I’m pusing B.tech 3rd year -->
+- 🌱 I’m currently learning  Android Development
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/anshu-kumari-19530a228/)
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Love to learn new skills 
+
