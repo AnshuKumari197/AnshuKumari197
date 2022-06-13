@@ -1,5 +1,5 @@
 <!-- <h1 align="center">
-<!--   Hi there I'm ANSHU 👋  -->
+<!--   Hii! I'm ANSHU 👋  -->
 <!--  </h1> -->
  
  <h3 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> </h3>
@@ -43,6 +43,14 @@
    - 📫 Mail - 197anshukumari@gmail.com
 
 <br> <br>
+
+<hr>
+
+
+## My Github Streak!
+<!--  <p align="center"> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshuKumari197&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <hr>
 
