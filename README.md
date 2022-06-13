@@ -13,6 +13,7 @@
   
 ## - 🎓 A third year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
 ## - 📌 Learner | Coder | App Developer | Web Developer 
+<br> <br>
 
 <p align="center">
   <em>
@@ -50,7 +51,7 @@
 ## My Github Streak!
 <!--  <p align="center"> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshuKumari197&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<br> <br>
 
 <hr>
 
@@ -80,6 +81,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AnshuKumari197&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuKumari197&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
+
+<br>
 
 <hr>
 
