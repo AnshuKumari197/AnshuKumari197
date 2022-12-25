@@ -12,7 +12,7 @@
 
   
 ## - 🎓 A third year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
-## - 📌 Learner | Coder | App Developer | Web Developer 
+## - 📌 Learner | Coder | Web Developer | App Developer
 <br> <br>
 
 <p align="center">
@@ -36,12 +36,13 @@
 ## 🔎 About Me
 
    - 😄 Pronouns: She/her
-   - 🌱 Currently learning Android Development
+   - 🌱 Currently learning Full Stack Development
    - 🌐 Interested in App Development
    - 🧑‍💻 Contributer to Open Source
-   - 💪 Strengthening DSA
+   - 💪 Strengthening Web Development
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - 197anshukumari@gmail.com
+   - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
 
 <br> <br>
 
