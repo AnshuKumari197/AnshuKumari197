@@ -12,8 +12,8 @@
 <hr>
 
   
-## - 🎓 A third year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
-## - 📌 Learner | Coder | App Developer | Web Developer
+## - 🎓 A fourth year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
+## - 📌 Learner | Coder | Data Analyst | Web Developer
 <br> <br>
 
 <p align="center">
