@@ -37,8 +37,8 @@
 ## 🔎 About Me
 
    - 😄 Pronouns: She/her
-   - 🌱 Currently learning Full Stack Development
-   - 🌐 Interested in App Development
+   - 🌱 Currently learning Data analysis
+   - 🌐 Interested in Python
    - 🧑‍💻 Contributer to Open Source
    - 💪 Strengthening Web Development
    - ⚡ Fun fact: Always ready to learn new skills 
