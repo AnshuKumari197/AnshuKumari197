@@ -12,8 +12,8 @@
 <hr>
 
   
-## - 🎓 A fourth year undergraduate student pursuing B.Tech (CSE) from Chandigarh University
-## - 📌 Learner | Coder | Data Analyst | Web Developer
+## - 🎓 Graduate student completed B.Tech (CSE) from Chandigarh University
+## - 📌 Data Analyst | Learner | Coder |  Web Developer
 <br> <br>
 
 <p align="center">
