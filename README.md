@@ -57,41 +57,35 @@
 
 <hr>
 
-## 🕵️‍ Skills
-🧑‍💻Frontend Development <br> <br>
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-<!-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-<!-- ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Kotlin](https://img.shields.io/badge/kotlin-333333?style=flat&logo=KOTLIN&logoColor=7B68EE)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=38CC77)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
+## 🕵️‍ Skills and Tools
 <br>
+<a href=""><img src="https://img.shields.io/badge/Excel-239120?style=for-the-badge&logo=&logoColor=white"></img></a>
+<a href=""><img src="https://img.shields.io/badge/PowerBI-1DA1F2?style=for-the-badge&logo=PowerBI&logoColor=white"></img></a>
 
-<hr>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠️ Language and Tools
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br>
 
+<br>
+<!--
 <p align="center">
 <!--- GitHub Stats...📈  --->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=AnshuKumari197&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuKumari197&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
+-->
 
 <br>
 
