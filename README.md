@@ -3,7 +3,7 @@
 <!--  </h1> -->
 
  
- <h3 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> </h3>
+ <h2 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> </h2>
  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!+I+am+Anshu+Kumari"/>
 </p>
