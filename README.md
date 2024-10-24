@@ -110,6 +110,10 @@
 
 <!-- 🤖🕵️‍♀️🧑‍💻🏋️🛠️💻🔎 -->
 
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/AnshuKumari197/AnshuKumari197/blob/main/game.svg) 
+create a file and paste this code 
+https://github.com/ps-19/ps-19/blob/main/game.svg?short_path=645cca4
+-->
 
 
 <hr/>
