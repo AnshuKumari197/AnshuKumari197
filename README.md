@@ -1,9 +1,4 @@
 
-<!-- <h1 align="center">
-<!--   Hi! I'm ANSHU 👋  -->
-<!--  </h1> -->
-
- 
  <h3 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="70px"> </h3>
  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!+I+am+Anshu+Kumari"/>
@@ -26,11 +21,8 @@
 <hr>
 <p align="right">
 
-  <em>
-    <br>
-     
+  <em>     
    <img align="left" width=200px alt="Github Cat" src="https://myoctocat.com/assets/images/base-octocat.svg" />
-    
   </em>
 </p>
  
