@@ -4,10 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!+I+am+Anshu+Kumari"/>
 </p>
 </h3>
-
 <hr>
 
-  
 ## - 🎓 Graduate student completed B.Tech (CSE) from Chandigarh University
 ## - 📌 Data Analyst | Learner | Coder |  Web Developer
 <br> <br>
@@ -20,7 +18,6 @@
   
 <hr>
 <p align="right">
-
   <em>     
    <img align="left" width=200px alt="Github Cat" src="https://myoctocat.com/assets/images/base-octocat.svg" />
   </em>
@@ -28,7 +25,6 @@
  
 
 ## 🔎 About Me
-
    - 😄 Pronouns: She/her
    - 🌱 Currently learning Data analysis
    - 🌐 Interested in Python
@@ -38,8 +34,7 @@
    - 📫 Mail - 197anshukumari@gmail.com
    - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
 
-<br> <br>
-
+<br> 
 <hr>
 
 
@@ -47,7 +42,6 @@
 <!--  <p align="center"> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshuKumari197&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br> <br>
-
 <hr>
 
 ## 🕵️‍ Skills and Tools
@@ -69,9 +63,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-
-<br>
 <!--
 <p align="center">
 <!--- GitHub Stats...📈  --->
@@ -80,27 +71,12 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuKumari197&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
 -->
-
-<br>
-
 <hr>
 
 ## 📌 Connect with me 
 <a href="197anshukumari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/anshu-kumari-19530a228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.instagram.com/__.its__.anshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-
-
-<!-- 
-<a href=""><img src=""></img></a>
-<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "></img></a>
-<a href=""><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
-<a href=""><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
- -->
-
-<!-- 🤖🕵️‍♀️🧑‍💻🏋️🛠️💻🔎 -->
 
 <!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/AnshuKumari197/AnshuKumari197/blob/main/game.svg) 
 create a file and paste this code 
