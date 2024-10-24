@@ -8,7 +8,23 @@
 
 ## - 🎓 Graduate student completed B.Tech (CSE) from Chandigarh University
 ## - 📌 Data Analyst | Learner | Coder |  Web Developer
-<br> <br>
+
+<!--
+## 🔎 Skills
+   - Data Analyst
+     - Power BI
+     - Python
+     - Excel
+     - SQL
+   - Web Development
+     - HTML
+     - CSS
+     - JavaScript
+     - SQL
+   - Android Development
+     - Kotlin
+     -->
+ <br>
 
 <p align="center">
   <em>
@@ -26,17 +42,31 @@
 
 ## 🔎 About Me
    - 😄 Pronouns: She/her
-   - 🌱 Currently learning Data analysis
+   - 🌱 Currently proceeding Data Analysis
    - 🌐 Interested in Python
+   - 💪 Strengthening Data Analysis
    - 🧑‍💻 Contributer to Open Source
-   - 💪 Strengthening Web Development
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - 197anshukumari@gmail.com
    - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
-
-<br> 
+<br>
 <hr>
 
+## 🔎 Skills
+   - Data Analyst
+     - Power BI
+     - Python
+     - Excel
+     - SQL
+   - Web Development
+     - HTML
+     - CSS
+     - JavaScript
+     - SQL
+   - Android Development
+     - Kotlin
+<br> 
+<hr>
 
 ## My Github Streak!
 <!--  <p align="center"> -->
