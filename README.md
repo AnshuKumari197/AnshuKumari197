@@ -24,9 +24,10 @@
   </em>
 </p>
  
-<br>
+
 ## 🔎 About Me
    - 😄 Pronouns: She/her
+   - 🏫 Graduate in B.Tech(CSE) from Chandigarh University
    - 🌱 Currently proceeding Data Analysis
    - 🌐 Interested in Python
    - 💪 Strengthening Data Analysis
@@ -34,7 +35,7 @@
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - 197anshukumari@gmail.com
    - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
-<br> <br> <br> <br>
+<br> <br> <br> 
 <hr>
 
 ## 🔎 Skills
