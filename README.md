@@ -24,7 +24,7 @@
   </em>
 </p>
  
-
+<br>
 ## 🔎 About Me
    - 😄 Pronouns: She/her
    - 🌱 Currently proceeding Data Analysis
@@ -34,7 +34,7 @@
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - 197anshukumari@gmail.com
    - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
-<br> <br> <br>
+<br> <br> <br> <br>
 <hr>
 
 ## 🔎 Skills
