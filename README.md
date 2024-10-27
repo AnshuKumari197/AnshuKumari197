@@ -23,7 +23,7 @@
    <img align="left" width=200px alt="Github Cat" src="https://myoctocat.com/assets/images/base-octocat.svg" />
   </em>
 </p>
- 
+ <br>
 
 ## 🔎 About Me
    - 😄 Pronouns: She/her
@@ -34,7 +34,7 @@
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - 197anshukumari@gmail.com
    - 🔗 Linkedin - https://www.linkedin.com/in/anshu-kumari-19530a228/
-<br> <br> 
+<br> <br> <br>
 <hr>
 
 ## 🔎 Skills
