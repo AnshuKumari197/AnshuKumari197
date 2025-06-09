@@ -7,7 +7,7 @@
 <hr>
 
 ## - 🎓 Graduate student completed B.Tech (CSE) from Chandigarh University
-## - 📌 Data Analyst | Learner | Coder |  Web Developer
+## - 📌 Software Developer | Data Analyst | Learner | Coder |  Web Developer
 
  <br>
 
